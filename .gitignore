@@ -1,0 +1,7 @@
+# Ignore Docker build files
+*.log
+*.tar
+*.env
+
+# OS files
+.DS_Store
